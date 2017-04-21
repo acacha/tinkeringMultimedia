@@ -20,6 +20,7 @@ require('icheck')
 
 require('./d3/demo.js')
 require('video.js')
+require('videojs/init.js')
 
 /**
  * Vue is a modern JavaScript library for building interactive web interfaces
